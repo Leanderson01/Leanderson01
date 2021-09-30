@@ -1,7 +1,7 @@
 ## Hii, meu nome é Leanderson Nunes ^^!
 
 - 🔭 Atualmente sou um aspirante a FullStack Dev
-- 🌱 Estudando Laravel, Js, Vue... 
+- 🌱 Estudando Laravel, Js, React... 
 - 😄 Pronouns: ele/dele
 - 📩 Contact: leandersonnunes.alu.lmb@gmail.com
 
