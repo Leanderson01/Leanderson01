@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente sou um aspirante a FullStack Dev
 - 🌱 Estudando Laravel, Js, React... 
-- 😄 Pronouns: ele/dele
 - 📩 Contact: leandersonnunes.alu.lmb@gmail.com
 
 <div>
