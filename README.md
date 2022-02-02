@@ -1,7 +1,7 @@
 ## Hii, meu nome é Leanderson Nunes ^^!
 
-- 🔭 Atualmente sou um aspirante a FullStack Dev
-- 🌱 Estudando Laravel, Js, React... 
+- 🔭 Pretendo dominar ReactJs, React Native e Node.
+- 🌱 Estudando Js, ReactJs, React Native e Node.
 - 📩 Contact: leandersonnunes.alu.lmb@gmail.com
 
 <div>
