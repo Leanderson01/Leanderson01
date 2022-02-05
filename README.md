@@ -2,7 +2,7 @@
 
 - 🔭 Pretendo dominar ReactJs, React Native e Node.
 - 🌱 Estudando Js, ReactJs, React Native e Node.
-- 📩 Contact: leandersonnunes.alu.lmb@gmail.com
+- 📩 Contact: leandersondev1@gmail.com
 
 <div>
   <a href="https://beacons.ai/Leanderson01">
