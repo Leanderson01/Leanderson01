@@ -1,7 +1,7 @@
-## Hii, meu nome é Leanderson Nunes ^^!
+## Hii, my name is Leanderson Nunes ^^!
 
-- 🔭 Pretendo dominar ReactJs, React Native e Node.
-- 🌱 Estudando Js, ReactJs, React Native e Node.
+- 🔭 I want to master ReactJs, React Native and Node.
+- 🌱 Studying Js, ReactJs, React Native and Node.
 - 📩 Contact: leandersondev1@gmail.com
 
 <div>
