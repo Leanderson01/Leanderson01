@@ -1,7 +1,7 @@
 ## Hii, my name is Leanderson Nunes ^^!
 
 - 🔭 I want to master ReactJs, React Native and Node.
-- 🌱 Studying Js, ReactJs, React Native and Node.
+- 🌱 Studying Js, ReactJs, React Native and Laravel.
 - 📩 Contact: leandersondev1@gmail.com
 
 <div>
@@ -29,6 +29,5 @@
   <a href="https://www.linkedin.com/in/leandersonnunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
-  ![Snake animation](https://github.com/Leanderson01/Leanderson01/blob/output/github-contribution-grid-snake.svg)
 
 
