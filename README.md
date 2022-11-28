@@ -1,6 +1,6 @@
 ## Hii, my name is Leanderson Nunes ^^!
 
-- 🔭 I want to master ReactJs, React Native and Node.
+- 🔭 I want to improve my ReactJs, React Native and Laravel.
 - 🌱 Studying Js, ReactJs, React Native and Laravel.
 - 📩 Contact: leandersondev1@gmail.com
 
